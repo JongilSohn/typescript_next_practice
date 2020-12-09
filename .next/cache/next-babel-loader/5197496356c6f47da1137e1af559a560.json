@@ -1,0 +1,1 @@
+{"ast":null,"code":"function index() {}\n\nexport default index;","map":{"version":3,"sources":["/Users/sonjong-il/Desktop/wecode/ts-next/ts-next-practice/pages/index.tsx"],"names":["index"],"mappings":"AACA,SAASA,KAAT,GAAkB,CAEjB;;AAED,eAAeA,KAAf","sourcesContent":["\nfunction index () {\n\n}\n\nexport default index"]},"metadata":{},"sourceType":"module"}
